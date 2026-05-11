@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/App/Player/">
+    <file alias="Main.qml">D:/PMVS/lab_9/task3/task3/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module task3
+typeinfo apptask3.qmltypes
+prefer :/qt/qml/task3/
+Main 254.0 Main.qml
+depends QtQuick
+

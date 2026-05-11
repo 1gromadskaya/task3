@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/task3">
+    <file alias="qmldir">D:/PMVS/lab_9/task3/task3/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/task3/qmldir</file>
+  </qresource>
+</RCC>
+

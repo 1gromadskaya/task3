@@ -1,0 +1,9 @@
+-rootPath
+D:/PMVS/lab_9/task3/task3
+-cmake-output
+-output-file
+D:/PMVS/lab_9/task3/task3/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/qml_imports/player_tests_conf.cmake
+-importPath
+D:/PMVS/lab_9/task3/task3/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.11.0/mingw_64/qml
